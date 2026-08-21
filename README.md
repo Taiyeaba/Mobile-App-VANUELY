@@ -26,7 +26,7 @@
 | **Student ID** | **232-134-012** |
 | **Program & Batch** | **B.Sc. in Software Engineering (SWE)** — *5th Batch* |
 | **Course Title** | **Mobile Application Development** |
-| **Course Instructor** | **Zia Khan** (`developer.ziakhan@gmail.com`) |
+
 
 ---
 
